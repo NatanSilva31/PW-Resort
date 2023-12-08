@@ -20,7 +20,7 @@
 
 .contact-form{
     position: relative;
-    min-height: 200vh;
+    min-height: 100vh;
     z-index: 0;
     background: #121317;
     padding: 30px;
